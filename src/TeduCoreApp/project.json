@@ -1,4 +1,4 @@
-﻿{
+{
   "userSecretsId": "aspnet-TeduCoreApp-37863fac-918a-4c48-8237-7733ab6410d0",
 
   "dependencies": {
@@ -43,7 +43,12 @@
     "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
       "version": "1.0.0-preview2-final",
       "type": "build"
-    }
+    },
+    "TeduCoreApp.Application": "1.0.0-*",
+    "TeduCoreApp.Data": "1.0.0-*",
+    "TeduCoreApp.Data.EF": "1.0.0-*",
+    "TeduCoreApp.Infrastructure": "1.0.0-*",
+    "TeduCoreApp.Ultilities": "1.0.0-*"
   },
 
   "tools": {
